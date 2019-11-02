@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.a0b496bd.chunk.css",
-    "main.js": "/static/js/main.3e6ed0e8.chunk.js",
-    "main.js.map": "/static/js/main.3e6ed0e8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c5569319.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c5569319.js.map",
-    "static/js/2.1c61302b.chunk.js": "/static/js/2.1c61302b.chunk.js",
-    "static/js/2.1c61302b.chunk.js.map": "/static/js/2.1c61302b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.befad92acac3a33ff47560cdbbb41433.js": "/precache-manifest.befad92acac3a33ff47560cdbbb41433.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.a0b496bd.chunk.css.map": "/static/css/main.a0b496bd.chunk.css.map"
+    "main.css": "/react-hooks-todolist/static/css/main.a0b496bd.chunk.css",
+    "main.js": "/react-hooks-todolist/static/js/main.0c6002b8.chunk.js",
+    "main.js.map": "/react-hooks-todolist/static/js/main.0c6002b8.chunk.js.map",
+    "runtime-main.js": "/react-hooks-todolist/static/js/runtime-main.4dfe0b66.js",
+    "runtime-main.js.map": "/react-hooks-todolist/static/js/runtime-main.4dfe0b66.js.map",
+    "static/js/2.1c61302b.chunk.js": "/react-hooks-todolist/static/js/2.1c61302b.chunk.js",
+    "static/js/2.1c61302b.chunk.js.map": "/react-hooks-todolist/static/js/2.1c61302b.chunk.js.map",
+    "index.html": "/react-hooks-todolist/index.html",
+    "precache-manifest.7693f5c9e7fbf6a476ec365b9bc377c9.js": "/react-hooks-todolist/precache-manifest.7693f5c9e7fbf6a476ec365b9bc377c9.js",
+    "service-worker.js": "/react-hooks-todolist/service-worker.js",
+    "static/css/main.a0b496bd.chunk.css.map": "/react-hooks-todolist/static/css/main.a0b496bd.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5569319.js",
+    "static/js/runtime-main.4dfe0b66.js",
     "static/js/2.1c61302b.chunk.js",
     "static/css/main.a0b496bd.chunk.css",
-    "static/js/main.3e6ed0e8.chunk.js"
+    "static/js/main.0c6002b8.chunk.js"
   ]
 }
