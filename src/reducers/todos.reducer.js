@@ -1,5 +1,10 @@
 import uuid from 'uuid/v4';
-import { ADD_TODO, REMOVE_TODO, TOGGLE_TODO } from '../constants/actions';
+import {
+  ADD_TODO,
+  REMOVE_TODO,
+  TOGGLE_TODO,
+  EDIT_TODO
+} from '../constants/actions';
 
 const reducer = (state, action) => {
   switch (action.type) {
@@ -10,6 +15,10 @@ const reducer = (state, action) => {
     case TOGGLE_TODO:
       return state.map(todo =>
         todo.id === action.id ? { ...todo, completed: !todo.completed } : todo
+      );
+    case EDIT_TODO:
+      return state.map(todo =>
+        todo.id === action.id ? { ...todo, task: action.task } : todo
       );
     default:
       return state;
