@@ -1,0 +1,15 @@
+{
+  "short_name": "React todolist",
+  "name": "A simple todolist app built with React, Hooks, & Context",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "512x512 192x192x 64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
