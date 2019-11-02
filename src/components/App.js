@@ -6,7 +6,7 @@ function App() {
   const classes = useStyles();
 
   return (
-    <div>
+    <div className={classes.App}>
       <header className={classes.header}>
         <h1>
           todo<span>list</span>
