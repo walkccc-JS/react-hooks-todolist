@@ -1,4 +1,5 @@
 import React from 'react';
+import TodoApp from './TodoApp';
 import useStyles from '../styles/AppStyles';
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
         </h1>
         <h2>A simple todolist app built with React Hooks & Context</h2>
       </header>
+      <TodoApp />
       <a
         href="https://github.com/walkccc/react-hooks-todolist"
         className={classes.link}
